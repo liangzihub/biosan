@@ -21,3 +21,10 @@ if c then
 else
     print("not c")    -->output:not c
 end
+
+
+
+
+
+
+
